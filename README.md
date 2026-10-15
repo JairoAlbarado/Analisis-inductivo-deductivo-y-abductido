@@ -1,4 +1,4 @@
-# Analisis-inductivo-deductivo-y-abductido
+# Analisis-inductivo-deductivo-y-abductivo
 ## 1. Análisis inductivo
 
 El análisis inductivo consiste en leer y analizar información para identificar patrones entre diferentes casos, ideas u observaciones. A partir de esos patrones puedo construir una conclusión más general.
